@@ -3,14 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+![WhatsApp Görsel 2024-02-12 saat 16 32 36_75b44f9d](https://github.com/UrizenN/Clima/assets/94642336/b4284401-008d-4e91-86b5-2c9be1725e09)
 
-This project is a starting point for a Flutter application.
+![WhatsApp Görsel 2024-02-12 saat 16 32 36_f78b078e](https://github.com/UrizenN/Clima/assets/94642336/ca1897f6-4504-462f-af74-685701be79de)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Görsel 2024-02-12 saat 16 32 36_75b44f9d](https://github.com/UrizenN/Clima/assets/94642336/b5831c72-7d50-48da-b314-206a09b48db1)
