@@ -1,8 +1,10 @@
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+
 import '../services/location.dart';
 import '../services/networking.dart';
 
-const apiKey = 'd79a42bf6ca3c87c757b6ef172e7e610';
-const openWeatherMapURL = 'https://api.openweathermap.org/data/2.5/weather';
+String? apiKey = dotenv.env['API_KEY'];
+String? openWeatherMapURL = dotenv.env['API_URL'];
 
 class WeatherModel {
   Future<dynamic> getCityWeather(String cityName) async {
